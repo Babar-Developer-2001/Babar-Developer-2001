@@ -1,6 +1,10 @@
-# Hi 👋, I'm Babar Binyamin
+<h1 align="center">Hi 👋, I'm Babar Binyamin</h1>
 
-### Full Stack Developer
+<h3 align="center">Full Stack Developer</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;React.js+%7C+Next.js+Developer;Node.js+%7C+Express.js;Learning+PostgreSQL+%26+System+Design;Always+Learning+New+Technologies" alt="Typing SVG" />
+</p>
 
 I'm a Full Stack Developer passionate about building modern, responsive, and scalable web applications.
 

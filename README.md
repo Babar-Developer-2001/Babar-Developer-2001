@@ -40,6 +40,80 @@
   <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,nodejs,express,postgres,mongodb,git,github,postman" />
 </p>
 
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<a href="YOUR_OMS_LIVE_DEMO">
+<img src="assets/images/oms-thumbnail.png" width="100%" alt="Organization Management System"/>
+</a>
+
+### 🏢 Organization Management System
+
+Multi-tenant management platform with JWT authentication, role-based access control, and PostgreSQL-backed data isolation.
+
+**React • Express • PostgreSQL • TypeORM • JWT**
+
+<a href="YOUR_OMS_LIVE_DEMO">🌐 Live Demo</a> •
+<a href="YOUR_OMS_REPOSITORY">📂 Repository</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+<a href="YOUR_AUTH_REPOSITORY">
+<img src="assets/images/auth-thumbnail.png" width="100%" alt="Authentication System"/>
+</a>
+
+### 🔐 Authentication System
+
+Secure authentication API featuring JWT authorization, request validation, and reusable Express middleware.
+
+**Node.js • Express • PostgreSQL • JWT**
+
+<a href="YOUR_AUTH_REPOSITORY">📂 Repository</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+<a href="https://everleafco.netlify.app/">
+<img src="assets/images/React e-commerce project showcase.png" width="100%" alt="EverleafCo"/>
+</a>
+
+### 🌿 EverleafCo
+
+Modern e-commerce application with product browsing, shopping cart, responsive design, and smooth UI animations.
+
+**React • Bootstrap • Framer Motion**
+
+<a href="https://everleafco.netlify.app/">🌐 Live Demo</a> •
+<a href="YOUR_EVERLEAFCO_REPOSITORY">📂 Repository</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+<a href="https://babar-binyamin.netlify.app/">
+<img src="assets/images/portfolio-thumbnail.webp" width="100%" alt="Portfolio"/>
+</a>
+
+### 💼 Portfolio
+
+Personal portfolio showcasing production-ready projects, responsive UI, and interactive Framer Motion animations.
+
+**React • Bootstrap • Framer Motion**
+
+<a href="https://babar-binyamin.netlify.app/">🌐 Live Demo</a> •
+<a href="YOUR_PORTFOLIO_REPOSITORY">📂 Repository</a>
+
+</td>
+</tr>
+</table>
 
 ## 📊 GitHub Stats
 

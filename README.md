@@ -67,6 +67,12 @@
 </p>
 
 
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Babar-Developer-2001/Babar-Developer-2001/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
+</p>
+
 ## Featured Projects
 
 - 🏢 Organization Management System

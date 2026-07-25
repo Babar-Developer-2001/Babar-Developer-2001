@@ -17,7 +17,7 @@
 
 
 
-<h2 align="left">Connect with Me</h2>
+## 🌐 Connect with Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/babarbinyamin/">
@@ -44,10 +44,28 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Babar-Developer-2001&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Babar-Developer-2001&show_icons=true&theme=tokyonight&hide_border=true" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Babar-Developer-2001&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
+
+## 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Babar-Developer-2001&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
+
+## 📈 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Babar-Developer-2001&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph" />
+</p>
+
+## 👀 Visitor Counter
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Babar-Developer-2001&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
+
 
 ## Featured Projects
 

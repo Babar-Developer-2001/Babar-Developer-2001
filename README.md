@@ -2,18 +2,30 @@
 
 <h3 align="center">Full Stack Developer</h3>
 
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;React.js+%7C+Next.js+Developer;Node.js+%7C+Express.js;Learning+PostgreSQL+%26+System+Design;Always+Learning+New+Technologies" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=750&lines=Full+Stack+Developer;Building+Secure+Scalable+Web+Applications;React.js+%7C+Node.js+%7C+Express.js+%7C+PostgreSQL+%7C+MongoDB;Passionate+About+Scalable+Backend+Systems;Learning+System+Design+%26+Cloud" alt="Typing SVG" />
 </p>
 
-👨‍💻 I'm a Full Stack Developer with 1+ year of experience building modern, scalable web applications using React.js, Next.js, Node.js, Express.js, PostgreSQL, and MongoDB.
 
-- 🔭 Currently working on full stack web applications at Zigron.
-- 🚀 Building production-ready applications with clean architecture, secure REST APIs, JWT authentication, and database design.
-- 🌱 Currently learning System Design, Docker, CI/CD, Microservices, and advanced PostgreSQL.
-- 📫 Reach me: **babarbinyamin2001@gmail.com**
-- 🌐 Portfolio: **https://babar-binyamin.netlify.app**
+## 👨‍💻 About Me
 
+I'm a **Full Stack Developer** with **1+ year of experience** building modern, scalable web applications using React.js, Next.js, Node.js, Express.js, PostgreSQL, and MongoDB.
+
+- 💼 Full Stack Developer Intern at **Zigron Software Company**
+- 🚀 Building secure, scalable web applications with clean architecture, REST APIs, JWT authentication, and database design
+- 🌱 Currently learning **System Design, Docker, CI/CD, Microservices, and advanced PostgreSQL**
+- 🎯 Building Secure REST APIs & Scalable Systems
+
+
+
+## 🏆 Highlights
+
+- 💼 **1+ year** of Full Stack Development experience
+- 🚀 Built **5+ production-ready** web applications
+- 🔐 Developed secure REST APIs with **JWT Authentication**
+- 🗄️ Experienced with **PostgreSQL, MongoDB, and TypeORM**
+- ⚡ Passionate about scalable backend architecture and clean code
 
 
 
@@ -54,8 +66,13 @@
 
 Multi-tenant management platform with JWT authentication, role-based access control, and PostgreSQL-backed data isolation.
 
-**React • Express • PostgreSQL • TypeORM • JWT**
-
+<p>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeORM-FE0902?style=flat-square"/>
+  <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white"/>
+</p>
 <a href="YOUR_OMS_LIVE_DEMO">🌐 Live Demo</a> •
 <a href="YOUR_OMS_REPOSITORY">📂 Repository</a>
 
@@ -71,8 +88,12 @@ Multi-tenant management platform with JWT authentication, role-based access cont
 
 Secure authentication API featuring JWT authorization, request validation, and reusable Express middleware.
 
-**Node.js • Express • PostgreSQL • JWT**
-
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white"/>
+</p>
 <a href="YOUR_AUTH_REPOSITORY">📂 Repository</a>
 
 </td>
@@ -89,10 +110,16 @@ Secure authentication API featuring JWT authorization, request validation, and r
 
 Modern e-commerce application with product browsing, shopping cart, responsive design, and smooth UI animations.
 
-**React • Bootstrap • Framer Motion**
+<p>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Responsive%20Design-0A66C2?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Framer%20Motion-0055FF?style=flat-square&logo=framer&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white"/>
+</p>
 
 <a href="https://everleafco.netlify.app/">🌐 Live Demo</a> •
-<a href="YOUR_EVERLEAFCO_REPOSITORY">📂 Repository</a>
+<a href="https://github.com/Babar-Developer-2001/everleafCo">📂 Repository</a>
 
 </td>
 
@@ -106,10 +133,15 @@ Modern e-commerce application with product browsing, shopping cart, responsive d
 
 Personal portfolio showcasing production-ready projects, responsive UI, and interactive Framer Motion animations.
 
-**React • Bootstrap • Framer Motion**
+<p>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Responsive%20Design-0A66C2?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white"/>
+</p>
 
 <a href="https://babar-binyamin.netlify.app/">🌐 Live Demo</a> •
-<a href="YOUR_PORTFOLIO_REPOSITORY">📂 Repository</a>
+<a href="https://github.com/Babar-Developer-2001/babar-binyamin">📂 Repository</a>
 
 </td>
 </tr>
@@ -117,10 +149,18 @@ Personal portfolio showcasing production-ready projects, responsive UI, and inte
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Babar-Developer-2001&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Babar-Developer-2001&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+<table align="center">
+<tr>
+<td>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Babar-Developer-2001&show_icons=true&theme=tokyonight&hide_border=true" />
+</td>
+<td>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Babar-Developer-2001&layout=compact&theme=tokyonight&hide_border=true" />
+</td>
+</tr>
+</table>
+
+
 
 ## 🔥 Contribution Streak
 
@@ -147,10 +187,4 @@ Personal portfolio showcasing production-ready projects, responsive UI, and inte
   <img src="https://raw.githubusercontent.com/Babar-Developer-2001/Babar-Developer-2001/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
 </p>
 
-## Featured Projects
 
-- 🏢 Organization Management System
-- 🌿 EverleafCo
-- 💼 Personal Portfolio
-
-Thanks for visiting my profile! ⭐

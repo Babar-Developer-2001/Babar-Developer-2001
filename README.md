@@ -126,7 +126,7 @@ Modern e-commerce application with product browsing, shopping cart, responsive d
 <td width="50%" valign="top">
 
 <a href="https://babar-binyamin.netlify.app/">
-<img src="assets/images/portfolio-thumbnail.webp" width="100%" alt="Portfolio"/>
+<img src="assets/images/portfolio-thumbnail2.png" width="100%" alt="Portfolio"/>
 </a>
 
 ### 💼 Portfolio

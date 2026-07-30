@@ -147,19 +147,6 @@ Personal portfolio showcasing production-ready projects, responsive UI, and inte
 </tr>
 </table>
 
-## 📊 GitHub Stats
-
-<table align="center">
-<tr>
-<td>
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Babar-Developer-2001&show_icons=true&theme=tokyonight&hide_border=true" />
-</td>
-<td>
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Babar-Developer-2001&layout=compact&theme=tokyonight&hide_border=true" />
-</td>
-</tr>
-</table>
-
 
 
 ## 🔥 Contribution Streak
